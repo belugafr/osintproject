@@ -19,7 +19,7 @@ Open-Source Intelligence (OSINT) plays a crucial role in gathering information f
 
 ## Getting Started
 
-To access the OSINT Project website, visit [https://www.osintproject.com](https://www.osintproject.com).
+To access the OSINT Project website, visit [https://officialosintproject.netlify.app](https://officialosintproject.netlify.app).
 
 ## Contribution Guidelines
 
