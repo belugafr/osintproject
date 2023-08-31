@@ -2,7 +2,7 @@
 
 ## Description
 
-OSINT Project is a collaborative effort initiated by Rylea and ΞXΞC, aimed at creating a comprehensive repository of OSINT (Open-Source Intelligence) resources. The project aims to catalog a vast collection of websites, applications, and online tools that facilitate open-source intelligence gathering across various categories.
+OSINT Project is a collaborative effort initiated by NayaWeb aimed at creating a comprehensive repository of OSINT (Open-Source Intelligence) resources. The project aims to catalog a vast collection of websites, applications, and online tools that facilitate open-source intelligence gathering across various categories.
 
 ## Table of Contents
 
